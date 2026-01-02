@@ -1,0 +1,17 @@
+🔹 Without PCA
+
+Without PCA means the model is trained using all original features directly, without reducing or transforming them into fewer components.
+
+🔹 Using Threshold
+
+Using threshold means converting predicted probabilities into class labels based on a chosen cutoff value instead of the default 0.5, to improve prediction performance.
+
+🔹 (Optional) Without Threshold
+
+Without threshold means class labels are predicted using the default probability cutoff (0.5) provided by the model.
+
+| Model               | Without_Threshold | With_Threshold |
+| ------------------- | ----------------- | -------------- |
+| Logistic Regression | 0.93              | 0.95           |
+| Decision Tree       | 0.94              | 0.96           |
+| Random Forest       | 0.97              | 0.98           |
