@@ -1,0 +1,10 @@
+# Dataset Preview
+Dataset Description
+
+The dataset used in this study was obtained from the UCI Machine Learning Repository, a widely recognized public repository for machine learning research. The dataset comprises environmental and sensor-based measurements collected from indoor spaces to estimate room occupancy status.
+
+The recorded attributes include temperature, humidity, carbon dioxide (CO₂) concentration, light intensity, and other related environmental parameters. These features capture variations in indoor conditions that are indicative of human presence.
+
+The target variable, Occupancy, is defined as a binary class label, where 1 represents an occupied room and 0 represents an unoccupied room. The dataset is suitable for binary classification tasks and is commonly used in research related to smart buildings, indoor environment monitoring, and occupancy detection systems.
+
+This dataset enables the evaluation and comparison of machine learning models for occupancy estimation based on real-world sensor data.
