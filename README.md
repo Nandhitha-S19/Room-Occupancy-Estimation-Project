@@ -17,7 +17,7 @@ CO₂ levels
 Light intensity
 Other environmental parameters
 
-#🔍 Project Workflow
+# 🔍 Project Workflow
 1️⃣ Data Loading and Exploration
 Loaded the dataset using Pandas
 Examined dataset structure, data types, and null values
@@ -58,7 +58,7 @@ Confusion Matrix
 Classification Report (Precision, Recall, F1-score)
 Compared results across models to determine the best-performing classifier.
 
-#📈 Key Observations
+# 📈 Key Observations
 Environmental and sensor data are effective predictors of room occupancy
 Handling class imbalance significantly improves model performance
 Tree-based models performed better than linear models
@@ -75,20 +75,20 @@ Seaborn
 Scikit-learn
 Imbalanced-learn (SMOTE)
 
-🚀 How to Run the Project
+# 🚀 How to Run the Project
 Install required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 Open Jupyter Notebook:
 jupyter notebook
 Run RoE.ipynb cell by cell to view the analysis.
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 Built a complete machine learning classification pipeline
 Gained experience in handling imbalanced datasets
 Learned model comparison and evaluation techniques
 Improved practical understanding of supervised learning
 
-✍️ Author
+# ✍️ Author
 
 Nandhitha
 Student at University Of Madras | Aspiring Software Developer
